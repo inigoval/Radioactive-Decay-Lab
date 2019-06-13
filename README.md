@@ -18,7 +18,11 @@ In this new era of technology, the computer is as important a part of a Physicis
 * The further you progress in Physics, the less 'neat' the solutions become. Often there is not one solution to a problem, but a _family_ of solutions from which we choose ones that fit based on some constraints. You may have experienced this already if you have studied differential equations in Maths. In real life situations, a computer is usually much better at finding a solution that fits if the constraints are complicated.
 
 
-### Why is this l
+### What will I get out of doing this lab?
+
+* Gain a basic understanding of the Python programming language and use of some scientific packages such as NumPy. This will greatly help you pick up any other programming language of your choice in the future.
+
+* Have a taste of what an computing lab at university will feel like.
 
 ### Starting the lab
 
