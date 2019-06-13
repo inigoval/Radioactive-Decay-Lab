@@ -9,4 +9,4 @@ We will mainly be using the [NumPy](http://www.numpy.org/) _package_ which provi
 
 All excercises _without_ asterisks should be completed; tasks _with_ asterisks are extensions and are usually more exploratory. These can be omitted until you have finished all other tasks.
 
-#### In order to use this notebook, you will have to [clone the repository](https://help.github.com/en/articles/cloning-a-repository) to your computer first. Make sure to do this in an empty folder
+#### In order to use this notebook, you will have to [clone the repository](https://help.github.com/en/articles/cloning-a-repository) to your computer first. Make sure to do this in an empty folder.
