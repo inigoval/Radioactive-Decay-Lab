@@ -12,7 +12,8 @@ In this new era of technology, the computer is as important a part of a Physicis
 
 * There are many parts of Physics where creating a real life experiment is simply not feasible. For example, in Astrophysics we are trying to understand the mechanism by which black holes [accrete](https://en.wikipedia.org/wiki/Accretion_(astrophysics)) matter. This is quite hard to observe in detail as there are no black holes particularly close to us (thankfully!). The most popular way of testing new theories is therefore creating a simulation on a computer where we can encode our current laws of Physics and see how the system evolves in different scenarios.
 
-
+![](images/black_hole_accretion.jpg)
+*A black hole accreting mass from a star much like our own*
 
 * The further you progress in Physics, the less 'neat' the solutions become. Often there is not one solution to a problem, but a _family_ of solutions from which we choose ones that fit based on some constraints. You may have experienced this already if you have studied differential equations in Maths. In real life situations, a computer is usually much better at finding a solution that fits if the constraints are complicated.
 
