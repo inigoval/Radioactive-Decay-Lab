@@ -9,7 +9,7 @@ In this new era of technology, the computer is as important a part of a Physicis
 
 * Physics is fundamentally data driven. We require data from experiments to drive our theoretical models and confirm or reject their hypotheses. In the past, measurements have been taken by hand (such as looking at photographic film and estimating the intensity of a star). However, this is vastly inefficient compared with an automated system using computers. For example, a new field called Astrostatics has recently emerged which directly tackles handling very large amounts of data (millions of measurements) by using the power of programming techniques such as machine learning.
 
-![The LOFAR radio telescope array uses machine learning to search for pulsars (collapsed neutron stars rotating at high speed)](images/lofar.png)
+![The LOFAR radio telescope array uses machine learning to search for pulsars (collapsed neutron stars rotating at high speed)](images/lofar.jpg)
 
 ### What does this lab contain?
 
