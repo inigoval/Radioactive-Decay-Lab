@@ -3,16 +3,23 @@
 
 ### Why is programming important in Physics?
 
-In this new era of technology, the computer is as important a part of a Physicist's tool box as a pencil and paper.
-
-* The further you progress in Physics, the less 'neat' the solutions become. Often there is not one solution to a problem, but a _family_ of solutions from which we choose ones that fit based on some constraints. You may have experienced this already if you have studied differential equations in Maths. In real life situations, a computer is usually much better at finding a solution that fits if the constraints are complicated.
+In this new era of technology, the computer is as important a part of a Physicist's tool box as a pencil and paper. Here are some reasons why:
 
 * Physics is fundamentally data driven. We require data from experiments to drive our theoretical models and confirm or reject their hypotheses. In the past, measurements have been taken by hand (such as looking at photographic film and estimating the intensity of a star). However, this is vastly inefficient compared with an automated system using computers. For example, a new field called Astrostatics has recently emerged which directly tackles handling very large amounts of data (millions of measurements) by using the power of programming techniques such as machine learning.
 
 ![](images/lofar.jpg)
 *The LOFAR radio telescope array uses machine learning to search for pulsars (collapsed neutron stars rotating at high speed)*
 
-### What does this lab contain?
+* There are many parts of Physics where creating a real life experiment is simply not feasible. For example, in Astrophysics we are trying to understand the mechanism by which black holes [accrete](https://en.wikipedia.org/wiki/Accretion_(astrophysics)) matter. This is quite hard to observe in detail as there are no black holes particularly close to us (thankfully!). The most popular way of testing new theories is therefore creating a simulation on a computer where we can encode our current laws of Physics and see how the system evolves in different scenarios.
+
+
+
+* The further you progress in Physics, the less 'neat' the solutions become. Often there is not one solution to a problem, but a _family_ of solutions from which we choose ones that fit based on some constraints. You may have experienced this already if you have studied differential equations in Maths. In real life situations, a computer is usually much better at finding a solution that fits if the constraints are complicated.
+
+
+### Why is this l
+
+### Starting the lab
 
 In this lab, we will be using the programming language Python 3 to create a model simulating the radioactive decay of a number of particles over time.
 
