@@ -24,16 +24,24 @@ In this new era of technology, the computer is as important a part of a Physicis
 
 * Have a taste of what an computing lab at university will feel like.
 
-### Starting the lab
+### Prerequisites
 
 In this lab, we will be using the programming language Python 3 to create a model simulating the radioactive decay of a number of particles over time.
 
 In order to complete this lab you should be comfortable with exponential decay and half lives. You must have come across vectors and matrices before (although no in depth knowledge is required). __No previous programming knowledge is required__. This excercise aims to be self contained so you should be able to jump right in without any prior reading. You are however encouraged to use google as you go through the excercises to help you understand/find syntax. 
 
-We will mainly be using the [NumPy](http://www.numpy.org/) _package_ which provides a powerful framework for numerical computations in Python. We will also use the [MatPlotLib](https://matplotlib.org/) to visualise some of our results.
+We will mainly be using the [NumPy](http://www.numpy.org/) _package_ which provides a powerful framework for numerical computations in Python.
 
-All excercises _without_ asterisks should be completed; tasks _with_ asterisks are extensions and are usually more exploratory. These can be omitted until you have finished all other tasks.
+All excercises _without_ asterisks should be completed; tasks _with_ asterisks are extensions and are usually more exploratory these can be omitted until you have finished all other tasks.
 
-#### In order to use this notebook, you will have to [clone the repository](https://help.github.com/en/articles/cloning-a-repository) to your computer first. Make sure to do this in an empty folder.
+### Starting the lab
+
+* [Clone the repository](https://help.github.com/en/articles/cloning-a-repository). Make sure to do this in an empty folder.
+
+* [Install Python 3](https://realpython.com/installing-python/). 
+
+* [Install Jupyter Notebooks using Anaconda](https://jupyter.readthedocs.io/en/latest/install.html) (uses up a lot of space but is easier) or use Google to install it without (it is a simple process but depends on your operating system so I cannot provide a universal link). I would suggest Googling 'how to install jupyter notebooks on windows/mac/linux' if you have issues.
+
+* Install NumPy. If you used Anaconda to install Jupyter Notebooks, this will have been done automatically. If not, I would again suggest using Google as it is slightly different depending on your operating system.
 
 Copyright (c) 2019 Inigo Val Slijepcevic
